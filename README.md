@@ -18,8 +18,8 @@ Espresso(RAG) is a **local Retrieval-Augmented Generation (RAG) system** leverag
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Espresso-RAG.git
-cd Espresso-RAG
+git clone https://github.com/yourusername/Espress-RAG-.git
+cd Espress-RAG-
 ```
 
 ### 2️⃣ **Set Up a Virtual Environment**
