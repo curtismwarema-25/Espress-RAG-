@@ -1,0 +1,3 @@
+The Eiffel Tower is in Paris, France.
+Python is a popular programming language.
+The capital of Kenya is Nairobi.
